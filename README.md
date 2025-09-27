@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! 👋 I'm Humayun
-### 🌟 Peace be upon you | Software Developer & Problem Solver 🌟
+### 🌟 Peace be upon you | Software Engineer & Problem Solver 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 
