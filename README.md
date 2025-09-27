@@ -1,94 +1,168 @@
-<h1 align="center">Hi there! i'm Humayun <br> Peace be upon you</h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayun2000444" alt="humayun2000444" /> </p>
+# Hi there! 👋 I'm Humayun
+### 🌟 Peace be upon you | Software Developer & Problem Solver 🌟
 
-- 📫 If you want to reach out to me, then just email me at *humayun200044@diit.edu.bd*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 
-<h2> Profile Links </h2>
+<img src="https://komarev.com/ghpvc/?username=humayun2000444&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<p align="center">
- <a href="https://www.facebook.com/humayun.ahmed.9843"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/humayun-ahmed775/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=Linkedin" alt="LinkedIn"></a>
-<a href="https://codeforces.com/profile/humayun200044"><img src="https://img.shields.io/twitter/url?label=codeforces&logo=CodeForces&url=https%3A%2F%2Fcodeforces.com%2F" alt="Codeforces"></a>
-<a href="https://www.codechef.com/users/humayun200044"><img src="https://img.shields.io/twitter/url?label=codechef&logo=codechef&url=https%3A%2F%2Fwww.codechef.com" alt="Codechef"></a>
-<a href="https://www.hackerrank.com/humayun2005005"><img src="https://img.shields.io/twitter/url?label=hackerrank&logo=hackerrank&url=https%3A%2F%2Fwww.hackerrank.com" alt="hackerrank"></a>
-</p>
+</div>
 
-<h2> Stats </h2>
+---
 
-![Humayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=humayun2000444&show_icons=true&count_private=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humayun2000444&theme=great-gatsby&layout=compact)](https://github.com/humayun2000444)
+## 🚀 About Me
 
+👨‍💻 **Software Engineer** at **Telcobright Limited**, Dhaka, Bangladesh
+🏢 **4 years** of local experience + **2 years** in online marketplace
+🌟 Specializing in **ReactJS, Java, Spring Boot & VoIP Solutions**
+📡 Expert in **Softswitch Development** using **FreeSWITCH, Asterisk & Kamailio**
+🔌 Skilled in **WebSocket integration** with **Janus & FreeSWITCH**
+🛠️ Providing **complete PBX system integration** and **VoIP solutions**
+💬 Ask me about **Spring Boot, React, VoIP, FreeSWITCH, Database Architecture**
+📫 Reach me: **humayun200044@diit.edu.bd**
+⚡ Fun fact: I deliver high-performance, tailored software solutions!
 
-<h2> Skills </h2>
+---
 
-<h4> Languages </h4>
-<span> 
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  
-</span>
+## 🌐 Connect With Me
 
-<h4> 🚀 Frameworks & Library </h4>
-<span>
-  <img src="https://img.shields.io/badge/react-092E20.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  
- 
-  
-  
-  
-  
-</span>
+<div align="center">
 
-<h4> Databases </h4>
-<span>
-  <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
- <img src="https://img.shields.io/badge/MySQL-00599C?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</span>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/humayun.ahmed.9843)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayun-ahmed775/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/humayun200044)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/humayun200044)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/humayun2005005)
 
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-</span>
+</div>
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  
-</span>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=humayun2000444&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayun2000444&theme=great-gatsby&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humayun2000444&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-0066CC?style=for-the-badge&logo=freeswitch&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-FF6600?style=for-the-badge&logo=asterisk&logoColor=white)
+![Kamailio](https://img.shields.io/badge/Kamailio-4A90E2?style=for-the-badge&logo=kamailio&logoColor=white)
+![Janus](https://img.shields.io/badge/Janus-WebRTC-FF4081?style=for-the-badge&logoColor=white)
+
+</div>
+
+### Databases
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Percona](https://img.shields.io/badge/Percona-%23FF6600.svg?style=for-the-badge&logo=percona&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### Operating Systems
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+</div>
+
+### Tools & Technologies
+<div align="center">
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
+![VoIP](https://img.shields.io/badge/VoIP-Solutions-4A90E2?style=for-the-badge&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **Web Development Projects**
+- 📚 Learning **Advanced Data Structures and Algorithms**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 🎯 Goal: Becoming a **Full Stack Developer**
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Humayun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=humayun2000444&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=humayun2000444&theme=discord&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thank you for visiting my profile! Have a great day! 🌟**
+
+</div>
