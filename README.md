@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! 👋 I'm Humayun
-### 🌟 Peace be upon you | Software Engineer & Problem Solver 🌟
+### 🌟 Peace be upon you | Software Developer & Problem Solver 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -14,14 +14,15 @@
 ## 🚀 About Me
 
 👨‍💻 **Software Engineer** at **Telcobright Limited**, Dhaka, Bangladesh
-🏢 **4 years** of local experience + **2 years** in online marketplace
-🌟 Specializing in **ReactJS, Java, Spring Boot & VoIP Solutions**
-📡 Expert in **Softswitch Development** using **FreeSWITCH, Asterisk & Kamailio**
-🔌 Skilled in **WebSocket integration** with **Janus & FreeSWITCH**
-🛠️ Providing **complete PBX system integration** and **VoIP solutions**
-💬 Ask me about **Spring Boot, React, VoIP, FreeSWITCH, Database Architecture**
-📫 Reach me: **humayun200044@diit.edu.bd**
-⚡ Fun fact: I deliver high-performance, tailored software solutions!
+🏢 **3+ years** of professional experience building scalable applications
+🌟 Passionate about **Full-stack Development, Android Apps & Real-time Communication**
+📡 Expert in **VoIP Solutions** using **FreeSWITCH, WebRTC, Janus, Socket.IO & Verto**
+🔧 Skilled in **C, C++, Java, Spring Boot, ReactJS, Node.js, MySQL & PostgreSQL**
+🚀 Experienced with **Backend Systems, Networking, AI/ML Integration**
+💬 Ask me about **Spring Boot, React, VoIP, FreeSWITCH, Database Architecture, WebRTC**
+📫 Reach me: **humayun.ahmed917280@gmail.com**
+🌐 Portfolio: **[humayun2000444.github.io/my_portfolio](https://humayun2000444.github.io/my_portfolio/)**
+⚡ Fun fact: Always eager to learn, collaborate, and deliver impactful software solutions!
 
 ---
 
@@ -132,10 +133,11 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **Web Development Projects**
-- 📚 Learning **Advanced Data Structures and Algorithms**
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 🎯 Goal: Becoming a **Full Stack Developer**
+- 🔭 Working on **VoIP Solutions & Real-time Communication Systems**
+- 📚 Mastering **Advanced WebRTC, FreeSWITCH & AI/ML Integration**
+- 🤝 Looking to collaborate on **Open Source VoIP & Full-stack Projects**
+- 🎯 Goal: Building **Enterprise-grade Telecommunication Solutions**
+- 🚀 Portfolio: **[View My Work](https://humayun2000444.github.io/my_portfolio/)**
 
 ---
 
